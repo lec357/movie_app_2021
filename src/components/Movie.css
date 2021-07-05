@@ -1,8 +1,10 @@
 .movies .movie {
-    background-color: white;
+    weight:80%;
+    height:70%;
+    background-color: gainsboro;
     margin-bottom: 70px;
     font-weight: 300;
-    padding: 20px;
+    padding: 10px;
     border-radius: 5px;
     color: #adaeb9;
     box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25),
@@ -45,7 +47,6 @@
     margin: 0;
     display: flex;
     flex-wrap: wrap;
-    margin: 5px 0px;
 }
 
 .movie__genres li,
